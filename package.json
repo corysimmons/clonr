@@ -1,0 +1,20 @@
+{
+    "name": "clonr",
+    "author": "Cory Simmons / MojoTech",
+    "main": "clonr.js",
+    "version": "1.0.0-beta",
+    "description": "Quickly clone repos by repo name.",
+    "keywords": [
+        "github",
+        "clone"
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/CorySimmons/clonr.git"
+        }
+    ],
+    "github": "https://github.com/CorySimmons/clonr",
+    "preferGlobal": true,
+    "bin": "./clonr.js"
+}
