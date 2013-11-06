@@ -7,4 +7,4 @@ Clone repos from Github quickly and easily without having to type all the Github
 - `npm install -g clonr`
 
 ###Usage
-- `clonr corysimmons/jeet-html` or `clonr corysimmons/jeet-html foo`
+- `clonr mojotech/jeet-html` or `clonr mojotech/jeet-html foo`
