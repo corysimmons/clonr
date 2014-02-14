@@ -1,10 +1,14 @@
-clonr
----
+# clonr
 
-Clone repos from Github quickly and easily without having to type all the Github cruft each time.
+Clone repos from Github quickly and easily without having to copy/paste the SSH git URI each time.
 
-###Installation
+### Installation
 - `npm install -g clonr`
 
-###Usage
-- `clonr mojotech/jeet-html` or `clonr mojotech/jeet-html foo`
+### Usage
+- `clonr username/repo` or `clonr username/repo foo`
+- e.g. `clonr jquery/jquery`
+
+
+### Wishlist
+- Use Github API to make search even more flexible. For instance, you'd be able to `clonr jquery` and it would find the most starred "jquery" repo and clone it.
