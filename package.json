@@ -2,7 +2,7 @@
     "name": "clonr",
     "author": "Cory Simmons / MojoTech",
     "main": "clonr.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Quickly clone repos by repo name.",
     "keywords": [
         "github",
