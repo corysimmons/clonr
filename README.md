@@ -1,5 +1,7 @@
 # clonr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/corysimmons/clonr.svg)](https://greenkeeper.io/)
+
 Clone repos from Github quickly and easily without having to copy/paste the SSH git URI each time.
 
 ### Installation
